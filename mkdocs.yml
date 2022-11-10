@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: emeraldletters
 
 theme:
     name: 'material'
@@ -8,7 +8,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: teal
-      accent: green
+      accent: teal
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -17,7 +17,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: teal
-      accent: green
+      accent: teal
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
