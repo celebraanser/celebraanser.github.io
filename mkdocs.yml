@@ -5,6 +5,9 @@ theme:
     language: en
     favicon: images/favicon_1.png
     logo: images/favicon_white.png
+    features:
+      - navigation.instant
+    
     palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -66,9 +69,8 @@ extra:
     - name: Italiano
       link: /it/ 
       lang: it
-  
-  copyright: 2022 emeralletters
 
-extra:
   #Rimuove il logo Made with Material for MkDocs
   generator: false
+
+copyright: 2022 emeralletters
