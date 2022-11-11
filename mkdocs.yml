@@ -3,22 +3,22 @@ site_name: emeraldletters
 theme:
     name: 'material'
     language: en
-    favicon: images/favicon_2.png
+    favicon: images/favicon_1.png
     logo: images/favicon_white.png
     palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: teal
+      primary: default
+      accent: default
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
-      accent: teal
+      primary: default
+      accent: default
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
