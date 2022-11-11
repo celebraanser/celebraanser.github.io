@@ -1,3 +1,6 @@
+---
+hide: footer
+---
 # Attenzione al respiro come pratica di consapevolezza
 
 Nella pratica della meditazione quando focalizziamo l'attenzione sul respiro stiamo spostando la nostra coscienza dai pensieri al respiro. In quei momenti smettiamo di identificarci con ciò che pensiamo e ci facciamo osservatori del respiro.

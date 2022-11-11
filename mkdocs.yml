@@ -2,8 +2,10 @@ site_name: emeraldletters
 
 theme:
     name: 'material'
+    language: en
+    favicon: images/favicon_2.png
+    logo: images/favicon_white.png
     palette:
-
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -12,7 +14,6 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -53,3 +54,19 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
+
+extra:
+
+  alternate:
+    - name: English
+      link: / 
+      lang: en
+    - name: Italiano
+      link: /it/ 
+      lang: it
+
+copyright: 2022 emeralletters
+
+extra:
+  #Rimuove il logo Made with Material for MkDocs
+  generator: false
