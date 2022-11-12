@@ -1,3 +1,3 @@
-[[ottobre1]]  
-[[ottobre2]]  
-[[ottobre3]]  
+- [[ottobre1]]  
+- [[ottobre2]]  
+- [[ottobre3]]  

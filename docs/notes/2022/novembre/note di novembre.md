@@ -1,4 +1,4 @@
 
-[[Ultima nota aggiunta]]  
-[[Attenzione]]  
-[[Nuova nota]]  
+- [[Ultima nota aggiunta]]  
+- [[Attenzione]]  
+- [[Nuova nota]]  
