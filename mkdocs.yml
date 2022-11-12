@@ -8,8 +8,9 @@ theme:
     features:
       - navigation.instant
       - navigation.tabs
-      - navigation.sections
-      - navigation.expand
+      #- navigation.sections
+      #- navigation.expand
+      - navigation.indexes
       - navigation.top
       - search.highlight
       - search.share
@@ -83,4 +84,12 @@ extra:
 
 copyright: 2022 emeralletters
 
-
+nav:
+    - home: 'index.md'
+    - notes: 
+      - 2022:
+          - novembre: 'notes/2022/novembre/note di novembre.md'
+          - ottobre: 'notes/2022/ottobre/note di ottobre.md' 
+          - settembre: 'notes/2022/settembre/note di settembre.md'
+      - 2021:
+          - dicembre: ''    
