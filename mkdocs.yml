@@ -70,14 +70,14 @@ extra_javascript:
 extra_css:
   - stylesheets/extra.css
 
-extra:
-  alternate:
-    - name: English
-      link: / 
-      lang: en
-    - name: Italiano
-      link: /it/ 
-      lang: it
+#extra:
+#  alternate:
+#    - name: English
+#      link: / 
+#      lang: en
+#    - name: Italiano
+#      link: /it/ 
+#      lang: it
 
   #Rimuove il logo Made with Material for MkDocs
   generator: false
