@@ -1,4 +1,4 @@
-site_name: smeraldo
+site_name: emeraldlink
 
 theme:
     name: 'material'
@@ -14,9 +14,7 @@ theme:
       - search.highlight
       - search.share
       - header.autohide
-    
-
-    
+   
     palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -84,3 +82,5 @@ extra:
   generator: false
 
 copyright: 2022 emeralletters
+
+
