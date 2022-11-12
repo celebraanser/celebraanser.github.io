@@ -79,6 +79,7 @@ extra_css:
 #      link: /it/ 
 #      lang: it
 
+extr:
   #Rimuove il logo Made with Material for MkDocs
   generator: false
 
