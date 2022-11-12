@@ -3,3 +3,7 @@
     --md-accent-fg-color:#24aa77;
    
 }
+
+.md-grid {
+    max-width: 700px; 
+  }

@@ -1,6 +1,6 @@
 ---
 title: Start?
-hide: footer
+hide: footer, navigation, toc
 tags: inizio
 ---
 ---
