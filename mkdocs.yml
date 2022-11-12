@@ -79,11 +79,11 @@ extra_css:
 #      link: /it/ 
 #      lang: it
 
-extr:
+extra:
   #Rimuove il logo Made with Material for MkDocs
   generator: false
 
-copyright: 2022 emeralletters
+copyright: 2022 - Smaragdi Ludum
 
 nav:
     - start?: 'index.md'
