@@ -86,7 +86,7 @@ extra:
 copyright: 2022 - Smaragdi Ludum
 
 nav:
-    - start?: 'index.md'
+    - Start?: 'index.md'
     - notes: 
       - 2022:
           - novembre: 'notes/2022/novembre/note di novembre.md'

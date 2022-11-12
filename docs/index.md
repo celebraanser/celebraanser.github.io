@@ -1,5 +1,5 @@
 ---
-title: start?
+title: Start?
 hide: footer
 tags: inizio
 ---
@@ -14,4 +14,7 @@ Su questo sito troverai note, riflessioni, pensieri. Si tratta di un progetto, u
 - [[note di novembre]]
 - [[note di ottobre]]
 - [[note di settembre]]
+
+---
+
 
