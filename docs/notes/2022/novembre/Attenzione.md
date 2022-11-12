@@ -32,3 +32,5 @@ Quando siamo coscienti del respiro stiamo creando consapevolezza. La consapevole
 Ma il fatto che creiamo spazio e consapevolezza attorno alle forme e che per breve tempo ce ne liberiamo, non vuol dire che siamo coscienti e consapevoli dello spazio. Questo è un ulteriore stadio di conoscenza della consapevolezza.
 
 [[Nuova nota]]
+
+[[note di novembre]]
