@@ -1,9 +1,10 @@
 ---
 title: home
-hide: toc, footer
+hide: 
 ---
 
 
 - [[note di novembre]]
 - [[note di ottobre]]
 - [[note di settembre]]
+

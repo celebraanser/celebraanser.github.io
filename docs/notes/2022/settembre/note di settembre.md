@@ -1,3 +1,3 @@
-- [[sett1]]  
-- [[sett2]]  
-- [[sett3]]  
+» [[sett1]]  
+» [[sett2]]  
+» [[sett3]]  
