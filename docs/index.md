@@ -18,10 +18,8 @@ In questo sito troverai note, riflessioni, pensieri. Si tratta di un progetto, u
 - [[note di settembre]]
 
 ---
-Unisciti e diventa un membro di Smaragdi Ludus!  
-Riceverai direttamente tramite mail le note pubblicate insieme ad altri contenuti che non saranno presenti nel sito. 
 
-[[join Smaragdi Ludus]]{ .md-button }  
+[[Join Smaragdi Ludus]]{ .md-button } → Riceverai tramite email le note pubblicate ed altri contenuti.  
 
 ---
 
