@@ -2,6 +2,7 @@
 title: Start?
 hide: footer, navigation, toc
 tags: inizio
+comments: true
 ---
 ---
 >2022-11-12  
