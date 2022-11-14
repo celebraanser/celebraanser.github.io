@@ -85,7 +85,7 @@ extra:
   #Rimuove il logo Made with Material for MkDocs
   generator: false
 
-copyright: 2022 - Smaragdi Ludum
+copyright: 2022 - Smaragdi Ludus
 
 nav:
     - Start?: 'index.md'
