@@ -3,7 +3,7 @@ hide: footer, navigation, toc
 comments: true
 ---
 
-Questa è l'ultima nota aggiunta che si collega alla penultima [[Attenzione]]
+Questa è l'ultimaa nota aggiunta che si collega alla penultima [[Attenzione]]
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Condimentum vitae sapien pellentesque habitant morbi tristique senectus. Tempor orci eu lobortis elementum nibh. Tincidunt tortor aliquam nulla facilisi cras. Mauris pellentesque pulvinar pellentesque habitant morbi. Viverra maecenas accumsan lacus vel. Sem integer vitae justo eget magna fermentum iaculis eu non. Risus quis varius quam quisque id diam. Risus sed vulputate odio ut enim blandit volutpat maecenas volutpat. Sit amet venenatis urna cursus eget nunc scelerisque viverra. Ac tortor dignissim convallis aenean. Facilisi nullam vehicula ipsum a.
 
