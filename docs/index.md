@@ -17,6 +17,8 @@ In questo sito troverai note, riflessioni, pensieri. Si tratta di un progetto, u
 - [[note di ottobre]]
 - [[note di settembre]]
 
+[note di ottobre](){ .md-button }
+
 ---
 
 
