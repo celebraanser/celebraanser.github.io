@@ -20,6 +20,7 @@ In questo sito troverai note, riflessioni, pensieri. Si tratta di un progetto, u
 ---
 
 [[Join Smaragdi Ludus]]{ .md-button }  
+
 Riceverai tramite email le note pubblicate ed altri contenuti.  
 
 ---
