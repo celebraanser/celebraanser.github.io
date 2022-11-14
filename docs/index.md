@@ -17,7 +17,11 @@ In questo sito troverai note, riflessioni, pensieri. Si tratta di un progetto, u
 - [[note di ottobre]]
 - [[note di settembre]]
 
-[note di ottobre](){ .md-button }
+---
+
+[[note di ottobre]]{ .md-button }  
+
+Inscriviti se vuoi rivevere direttamente nella tua mail l'ultima nota pubblicata insieme ad altri contenuti che non troverai nel sito.
 
 ---
 
