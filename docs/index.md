@@ -1,12 +1,14 @@
 ---
 title: Start?
-hide: footer, navigation, toc
+author: Smaragdi Ludus
 tags: [inizio]
+hide: footer, navigation, toc
 comments: true
 ---
 ---
 >2022-11-12  
->15:10
+>15:10  
+>author: Smaragdi Ludus
 ---
 
 Ciao amico!
