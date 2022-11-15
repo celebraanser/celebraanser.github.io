@@ -1,7 +1,7 @@
 ---
 title: Start?
 hide: footer, navigation, toc
-tags: inizio
+tags: [inizio]
 comments: true
 ---
 ---

@@ -1,3 +1,7 @@
+---
+tags: [inizio]
+---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Condimentum vitae sapien pellentesque habitant morbi tristique senectus. Tempor orci eu lobortis elementum nibh. Tincidunt tortor aliquam nulla facilisi cras. Mauris pellentesque pulvinar pellentesque habitant morbi. Viverra maecenas accumsan lacus vel. Sem integer vitae justo eget magna fermentum iaculis eu non. Risus quis varius quam quisque id diam. Risus sed vulputate odio ut enim blandit volutpat maecenas volutpat. Sit amet venenatis urna cursus eget nunc scelerisque viverra. Ac tortor dignissim convallis aenean. Facilisi nullam vehicula ipsum a.
 
 Ut eu sem integer vitae justo eget magna. Natoque penatibus et magnis dis parturient montes nascetur ridiculus. Id nibh tortor id aliquet lectus proin nibh nisl condimentum. Et netus et malesuada fames ac turpis. Convallis a cras semper auctor neque. Enim neque volutpat ac tincidunt vitae semper. Faucibus turpis in eu mi bibendum neque. Rutrum tellus pellentesque eu tincidunt tortor. Ut faucibus pulvinar elementum integer. Fermentum et sollicitudin ac orci phasellus egestas. Non diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Iaculis at erat pellentesque adipiscing commodo elit at. Et netus et malesuada fames ac turpis egestas integer eget. Urna id volutpat lacus laoreet non.

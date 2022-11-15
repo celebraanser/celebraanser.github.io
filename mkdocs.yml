@@ -17,6 +17,7 @@ theme:
       - search.highlight
       - search.share
       - header.autohide
+      #- announce.dismiss
    
     palette:
     # Light mode
@@ -62,7 +63,9 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
-
+  - tags:
+      tags_file: tags.md
+  
 
 extra_javascript:
   - javascripts/mathjax.js
