@@ -93,7 +93,7 @@ copyright: 2022 - Smaragdi Ludus
 
 nav:
     - Start?: 'index.md'
-    - topic: 'tags.md'
+    - tags: 'tags.md'
     - contact: 'contact.md'
 #    - notes: 
 #      - 2022:
