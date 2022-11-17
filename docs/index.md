@@ -6,26 +6,26 @@ hide: footer, navigation, toc
 comments: true
 ---
 ---
->2022-11-12  
->15:10  
->author: Smaragdi Ludus
+>`creation: 2022-11-12`  
+>`updated: 2022-16-12`  
+>`author: Smaragdi Ludus`
 ---
 
-Ciao amico!
+Salve amico!
 
 In queste pagine troverai note, riflessioni, pensieri.
 
-Si tratta di uno studio, un viaggio in perenne divenire. Non si raggiungerà mai la fine perché non c'è una fine, come non esiste un inizio, unico e definito. Tutto è in evoluzione tutto è mutamento.  
+Nel complesso formano uno studio, un viaggio in perenne divenire, una scoperta. Non si raggiungerà mai la fine perché una fine non c'è, così come non esiste un inizio, unico e definito. Tutto è in evoluzione tutto è mutamento.  
 
-Possiamo soltanto plasmare dei momenti di solidità ai quali aggrapparsi. Ciò che rimane è pura potenzialità.  
+Possiamo soltanto plasmare dei momenti di solidità ai quali aggrapparci. Ciò che rimane sullo sfondo è pura potenzialità.  
 
-Sveliamo insieme ciò che si formerà in questi attimi e ciò che verrà, osservando, accettando ed accogliendo senza ostacolare la via. Una scoperta continua di un territorio inesplorato per il quale non esistono carte dettagliate, solamente degli indizi disseminati qua e la che provengono da un lontano passato.  
+Sveliamo insieme ciò che si formerà in questi attimi e ciò che verrà creato, osservando, accettando ed accogliendo senza ostacolare la via. Una scoperta continua di un territorio inesplorato per il quale non esistono carte dettagliate, solamente degli indizi disseminati qua e la che provengono da un lontano passato.  
 
-Saremo noi a tracciare la mappa, ognuno la sua, unica e irripetibile. Ne scopriremo i contorni, definiremo il paesaggio e ciò che vi è contenuto, tutto come se fosse un gioco segreto.
+Dovremmo essere noi a tracciare la mappa, ognuno la sua, unica e irripetibile. Ne scopriremo i contorni, definiremo il paesaggio e ciò che vi è contenuto, tutto come se fosse un'irresistibile gioco segreto.
 
-Discutiamone insieme, confrontiamoci ed aiutiamoci lungo questo meraviglioso viaggio, il più faticoso e il più affascinante che potessimo mai intraprendere.  
+Scopriamoci, confrontiamoci ed aiutiamoci lungo questo meraviglioso viaggio, il più faticoso e il più affascinante che potessimo mai intraprendere.  
 
-Buona scoperta!
+Buona avventura!
 
 
 - [[note di novembre]]
@@ -34,9 +34,9 @@ Buona scoperta!
 
 ---
 
-[join Smaragdi Ludus](https://ranierifederico.systeme.io/08211e31){ .md-button }  
+[subscribe](){ .md-button }  
 
-Riceverai tramite email le note pubblicate ed altri contenuti.  
+Subscribe to receive the last notes by email!    
 
 ---
 
